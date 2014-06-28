@@ -1,2 +1,6 @@
 trololo
+git@github.com:okrutniak/http_palpate.git
+https://github.com/okrutniak/http_palpate.git
 
+
+Kalinowski to pedał
