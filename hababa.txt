@@ -4,3 +4,5 @@ https://github.com/okrutniak/http_palpate.git
 
 
 Kalinowski to pedał
+
+Sam jesteś pedał
